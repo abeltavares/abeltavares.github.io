@@ -8,6 +8,14 @@
 # Template supports both a description AND a skill list, however it may look best if only one or the
 # other is used. Lists are sorted and concatenated without line breaks separated by • (&bull;)
 
+- skill: Business and Finance
+  list:
+    - Financial analysis and modeling
+    - Financial planning
+    - Reporting
+    - Data management
+    - Business intelligence
+    
 - skill: Programming Languages
   list:
     - Python
@@ -21,3 +29,36 @@
     - PostgreSQL
     - Cassandra
     - MongoDB
+
+- skill: Data Integration Tools
+  list:
+    - SSIS
+
+  - skill: Big Data Tools
+  list:
+    - Hadoop
+    - Hive
+    - Kafka
+    - Spark
+
+- skill: Data Visualization Tools
+  list:
+    - Power BI
+    - Tableau
+
+- skill: Containerization & IaC Tools
+  list:
+    - Docker
+    - Terraform
+
+- skill: ERP Systems
+  list:
+    - SAP
+    - Primavera
+    
+- skill: Version Control/Collaboration
+  list:
+    - Git
+    - Github
+    - Jira
+    - Agile
