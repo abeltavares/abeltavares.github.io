@@ -34,7 +34,7 @@
   list:
     - SSIS
 
-  - skill: Big Data Tools
+- skill: Big Data Tools
   list:
     - Hadoop
     - Hive
