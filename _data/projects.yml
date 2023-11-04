@@ -12,14 +12,14 @@
   description: >
     A web application allowing users to analyze stock data using financial ratios, balance sheets, income statements, and other metrics.
 
-  - project: SAPCCMass
+- project: SAPCCMass
   role: Developer
   #duration: 2015 &mdash; Present
   url: "https://github.com/abeltavares/SAPCCMass"
   description: >
     A tool for automating mass maintenance of cost centers in SAP using transaction codes KS01 and KS02.
 
-  - project: Healthcare NPS Analysis
+- project: Healthcare NPS Analysis
   role: Developer
   #duration: 2015 &mdash; Present
   url: "https://github.com/abeltavares/nps_performance_analysis"
