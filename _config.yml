@@ -35,14 +35,21 @@ plugins:
 
 titles_from_headings:
   strip_title: true
-  collections: true
+  collections:
+    personal: # collection for personal blog posts
+      output: false
+
+gravatar_hash: 027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3
+code_block_max_height: 500px
+
+home_post_limit: 5
 
 defaults:
   - scope:
       path: ""
       type: post
     values:
-      image: https://s.gravatar.com/avatar/2136e716a089f4a3794f4007328c7bfb?s=800 # Apply default site image
+      image: https://2.gravatar.com/avatar/027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3?size=800 # Apply default site image
     values:
       tags:
         - Other # Add a default tag to all posts
