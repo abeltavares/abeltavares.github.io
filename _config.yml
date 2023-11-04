@@ -26,6 +26,7 @@ kramdown:
     disable: true
 
 header_pages:
+  - aboutme.md
   - CV.html
   - archive.html
     
