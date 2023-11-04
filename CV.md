@@ -2,9 +2,11 @@
 layout: page
 ---
 # Abel Tavares
+
+abelst9@gmail.com
 ---
 ##  Business Data Analytics Engineer 
----
+--------
 ### 🚀 What I Do
 
 - **Data Engineering**: Specializing in the architecture, creation, and optimization of data integration solutions to foster new business value.
@@ -27,7 +29,7 @@ layout: page
 - **ERP Systems**: SAP, Primavera.
 
 ### 🌐 Professional Experience
-#### Infineon Technologies (2021 - 2023)
+#### [Infineon Technologies](https://www.infineon.com/) (2021 - 2023)
 ##### Data & Reporting Analyst 
   - Data accuracy and integrity.
   - Automated solutions using Python.
