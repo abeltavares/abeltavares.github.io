@@ -5,14 +5,9 @@ title: Blog Archive
 
 <a href="/archive.html">Sort by category</a>
 
-{%- if site.personal %}
-  {%- assign allposts = site.posts | concat: site.personal %}
-{%- else %}
-  {%- assign allposts = site.posts %}
-{%- endif %}
-{%- assign sorted_posts = allposts | sort_natural: "date" | reverse %}
+{%- assign allposts = site.posts | concat: site.personal | sort_natural: "date" | reverse %}
 
-{%- assign postsByYearMonth = sorted_posts | group_by_exp:"item", "item.date | date: '%Y %B'"  %}
+{%- assign postsByYearMonth = allposts | group_by_exp:"allposts", "allposts.date | date: '%Y %B'"  %}
 
 {%- for yearMonth in postsByYearMonth %}
 <h3>{{ yearMonth.name }}</h3>
