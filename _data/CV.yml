@@ -1,0 +1,26 @@
+theme: default
+header:
+  name: Abel Tavares
+  suffix: BSc
+  display_contact_info: true
+  current_title: Senior Database Developer
+  intro: >
+    Motivated and versatile Business Data Analytics Engineer with a proven track record in architecting and optimizing data solutions that drive substantial business value. With expertise in finance, data management, and a proficiency in a range of programming languages, I specialize in crafting data-driven business intelligence strategies. I excel in agile, cross-functional teams, and I’m dedicated to continuous improvement and innovation within the field.
+contact:
+  #address: 123 Main St, Test, CA 91234
+  #phone: (351) ...
+  email: abelst9@gmail.com
+sections:
+  experience:   true
+  education:    true
+  projects:     true
+  skills:       true
+  recognition:  false
+  associations: false
+  interests:    true
+  links:        false
+  social_links: false
+social:
+  #Website:    ....
+  GitHub:     https://github.com/abeltavares
+  LinkedIn:   https://linkedin.com/in/abeltavares
