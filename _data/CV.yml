@@ -8,14 +8,14 @@ header:
     Motivated and versatile Business Data Analytics Engineer with a proven track record in architecting and optimizing data solutions that drive substantial business value. 
 contact:
   #address: 123 Main St, Test, CA 91234
-  #phone: (351) ...
+  phone: (351) 910465032
   email: abelst9@gmail.com
 sections:
   experience:   true
   education:    true
   projects:     true
   skills:       true
-  certificate:  true
+  certificates:  true
   associations: false
   interests:    true
   links:        false
