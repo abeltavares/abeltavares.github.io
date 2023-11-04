@@ -50,6 +50,9 @@ defaults:
       type: post
     values:
       image: https://2.gravatar.com/avatar/027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3?size=800 # Apply default site image
+  - scope:
+      path: ""
+      type: posts    
     values:
       tags:
         - Other # Add a default tag to all posts
