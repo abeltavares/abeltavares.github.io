@@ -2,6 +2,11 @@
 layout: page
 ---
 
+<!-- Hidden title for SEO or other purposes -->
+<div style="display:none;">
+  Your Hidden Title Here
+</div>
+
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Abel Tavares 
 
 ---
