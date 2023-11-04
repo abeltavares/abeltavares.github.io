@@ -1,0 +1,61 @@
+- company: "Infineon Technologies"
+  summary: "Infineon Technologies is a leading global semiconductor company that specializes in innovative solutions for energy efficiency, mobility, and security. Renowned for pioneering cutting-edge technologies, Infineon offers a broad portfolio of microelectronics that set the standard in the industry."
+  logo: "/img/companylogos/infineon.png"
+  url: "https://www.infineon.com/"
+  positions:
+  - title: "Data & Reporting Analyst"
+    startdate: 2023-02-01
+    enddate: 2023-11-16
+    projects:
+      - "Data accuracy and integrity"
+      - Automated solutions using Python
+      - KPI definition and modeling
+      - Reports, tableau dashboards, and visualizations
+      - Variance analysis
+      - Organizational development
+  - title: "Finance Master Data Analyst"
+    startdate: 2021-11-14
+    enddate: 2023-02-31
+    projects:
+      - SAP master data maintenance
+      - Test case design
+      - Efficiency improvement through macros
+      - SAP maintenance automation
+      - Internal controls and reporting
+      - Cross-functional coordination
+
+- company: "Hotel Black Tulip"
+  summary:
+  logo: "/img/companylogos/blacktulip.png"
+  url: "https://www.hotelblacktulip.pt/pt/Menu/Home.aspx"
+  positions: 
+  - title: "Business Analyst Intern"
+    startdate: 2021-03-01
+    enddate: 2021-08-31
+    projects:
+      - Accounting and financial support
+      - Macro and sectoral analysis
+      - BI solution with Power BI
+      - Critical analysis
+
+#- company: American Money Group, Inc
+#  summary:
+#  logo: /img/companylogos/amg.jpg
+#  url: http://www.americanmoneygroup.com/
+#  positions:
+#  - title: IT Consultant
+#    startdate: 2009-03-01
+#    enddate: 2011-05-01
+#    summary: Provided a broad range of IT services. Helpdesk support, computer repair, VoIP management & configuration, as well as website and intranet maintenance.
+#    projects:
+
+#- company: Me-N-Ed's Pizza Parlor
+#  summary:
+#  logo: /img/companylogos/mne.jpg
+#  url: https://www.meneds.com/
+#  positions:
+#  - title: Employee
+#    startdate: 2002-09-01
+#    enddate: 2008-10-01
+#    summary: A family owned business from 1963 to 2020. Worked in the kitchen and the bar, as a cashier and a cook. Helped with business paperwork, quickbooks, building spreadsheets, and in recent years during the COVID pandemic, helped to run social media to keep business going strong with a delivery only business.
+#    projects:
