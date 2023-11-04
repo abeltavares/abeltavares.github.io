@@ -18,8 +18,6 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ### 🚀 What I Do
 ---
 
-<br>
-
 - **Data Engineering**: Specializing in the architecture, creation, and optimization of data integration solutions to foster new business value.
 - **System Integration & Orchestration**: Connecting technologies and orchestrating workflows to maximize efficiency and automation.
 - **Big Data & Performance**: Handling and optimizing big data technologies and performance tuning for high efficiency.
@@ -33,8 +31,6 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ---
 ### 🛠️ Skills
 ---
-
-<br>
 
 - **Business and Finance**: Financial analysis, modeling, planning, reporting, data management, business intelligence.
 - **Data Integration Tools**: SSIS.
@@ -52,9 +48,9 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ### 🌐 Professional Experience
 ---
 
-<br>
+#### <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Logo" width="32" height="32"> Infineon Technologies (2021 - 2023)
 
-#### [Infineon Technologies](https://www.infineon.com/) (2021 - 2023)
+
 ##### Data & Reporting Analyst 
   - Data accuracy and integrity.
   - Automated solutions using Python.
@@ -83,8 +79,6 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ### 📚 Education
 ---
 
-<br>
-
 - Master's Degree in Business Intelligence and Analytics from ISCAP - Porto Accounting and Business School (work in progress).
 - Postgraduate Degree in Big Data from ISEP - Porto School of Engineering.
 - Postgraduate Degree in Corporate Finance from ISCAP - Porto Accounting and Business School.
@@ -97,8 +91,6 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ### 🚀 Projects
 ---
 
-<br>
-
 - [MarketTrackPipe](https://github.com/abeltavares/MarketTrackPipe): Automated Apache Airflow data pipeline for collecting, storing, and backing up stock and cryptocurrency market data.
 - [FinStockDash](https://github.com/abeltavares/FinStockDash): Web application for analyzing stock data using financial ratios, balance sheets, income statements, and other metrics.
 - [SAPCCMass](https://github.com/abeltavares/SAPCCMass): Tool for automating mass maintenance of cost centers in SAP using transaction codes KS01 and KS02.
@@ -109,8 +101,6 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ---
 ### 🏆 Certificates
 ---
-
-<br>
 
 - AWS Certified Cloud Practitioner 
 - Azure AI Fundamentals 
@@ -124,8 +114,6 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ### 🌎 Languages
 ---
 
-<br>
-
 - 🇵🇹 Portuguese.
 - 🇺🇸 English.
 
@@ -134,8 +122,6 @@ Motivated and versatile Business Data Analytics Engineer with a proven track rec
 ---
 ### 🌟 Interests
 ---
-
-<br>
 
 - Reading.
 - Karate.
