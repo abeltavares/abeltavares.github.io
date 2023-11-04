@@ -190,15 +190,15 @@
   </section>
 {%- endif -%}
 
-{%- if CV.sections.certificates -%}
+{%- if CV.sections.certificate -%}
   <section class="content-section">
     <header class="section-header"><h2>Certificates</h2></header>
     <div class="section-content">
-    {%- for certificates in site.data.certificatess -%}
+    {%- for certificate in site.data.certificates -%}
       <div class="CV-item">
-        <h3 class="CV-item-title" itemprop="award">{{ certificates.award }}</h3>
-        <h4 class="CV-item-details">{{ certificates.organization }} &bull; {{ certificates.year }}</h4>
-        <div class="CV-item-copy">{{ certificates.summary }}</div>
+        <h3 class="CV-item-title" itemprop="award">{{ certificate.award }}</h3>
+        <h4 class="CV-item-details">{{ certificate.organization }} &bull; {{ certificate.year }}</h4>
+        <div class="CV-item-copy">{{ certificate.summary }}</div>
       </div>
     {%- endfor -%}
     </div>
