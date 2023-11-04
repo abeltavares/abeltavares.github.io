@@ -1,0 +1,23 @@
+#- skill: string
+#  description: string
+#  list:
+#    - array
+#    - of
+#    - strings
+#
+# Template supports both a description AND a skill list, however it may look best if only one or the
+# other is used. Lists are sorted and concatenated without line breaks separated by • (&bull;)
+
+- skill: Programming Languages
+  list:
+    - Python
+    - SQL
+    - VBA
+    - C
+
+- skill: Databases
+  list:
+    - Oracle
+    - PostgreSQL
+    - Cassandra
+    - MongoDB
