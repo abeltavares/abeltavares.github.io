@@ -42,5 +42,7 @@ defaults:
       path: ""
       type: post
     values:
-      image: https://media.licdn.com/dms/image/D4E03AQEtHgffAhSHKg/profile-displayphoto-shrink_200_200/0/1697272443452?e=1704326400&v=beta&t=aOsASALIYnx74MnPbTAFPvukQJzlwv_k95wvNFRKXHA # Apply default site image
-      tags: Other
+      image: https://s.gravatar.com/avatar/2136e716a089f4a3794f4007328c7bfb?s=800 # Apply default site image
+    values:
+      tags:
+        - Other # Add a default tag to all posts
