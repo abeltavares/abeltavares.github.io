@@ -15,7 +15,7 @@ sections:
   education:    true
   projects:     true
   skills:       true
-  recognition:  false
+  certificates:  true
   associations: false
   interests:    true
   links:        false
