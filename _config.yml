@@ -27,6 +27,7 @@ kramdown:
 
 header_pages:
   - CV.html
+  - archive.html
     
 plugins:
   - jekyll-feed
