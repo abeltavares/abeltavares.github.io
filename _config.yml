@@ -37,7 +37,6 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections:
-    personal: # collection for personal blog posts
       output: false
 
 gravatar_hash: 027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3
