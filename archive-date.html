@@ -5,7 +5,6 @@ title: Blog Archive
 
 <a href="/archive.html">Sort by category</a>
 
-{%- assign allposts = site.posts %}
 {%- assign sorted_posts = allposts | sort: 'date' | reverse %}
 
 {%- assign postsByYearMonth = sorted_posts | group_by_exp:"post", "post.date | date: '%Y %B'" %}
