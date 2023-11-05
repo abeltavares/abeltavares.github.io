@@ -4,7 +4,10 @@ title: About Me
 ---
 
 <div style="text-align:center; margin-top: 30px; margin-bottom: 50px;">
-    <img src="img/profile/profile.jpeg" width="300" style="border-radius: 50%;">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="img/profile/profile.jpeg" width="300" style="border-radius: 50%; margin-right: 50px;">
+        <img src="img/companylogos/infineon.png" width="80">
+    </div>
 </div>
 
 Dedicated Data Analytics Engineer with a focus on the intersection of data and business strategy. Passionate about harnessing the transformative power of data to drive innovation and operational excellence. With a strong background in data management and a versatile skill set in programming languages and big data tools, I excel at developing and optimizing data solutions that underpin critical business intelligence functions.
