@@ -39,7 +39,7 @@ titles_from_headings:
   collections:
       output: false
 
-gravatar_hash: a0fd5198f11584c137c480c1dcc058d5
+#gravatar_hash: a0fd5198f11584c137c480c1dcc058d5
 code_block_max_height: 500px
 
 home_post_limit: 5
@@ -49,7 +49,7 @@ defaults:
       path: ""
       type: post
     values:
-      image: https://0.gravatar.com/avatar/a0fd5198f11584c137c480c1dcc058d5?size=256 # Apply default site image
+      #image: https://0.gravatar.com/avatar/a0fd5198f11584c137c480c1dcc058d5?size=800 # Apply default site image
   - scope:
       path: ""
       type: posts    
