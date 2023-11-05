@@ -39,7 +39,7 @@ titles_from_headings:
   collections:
       output: false
 
-gravatar_hash: 027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3
+#gravatar_hash: 027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3
 code_block_max_height: 500px
 
 home_post_limit: 5
@@ -49,7 +49,7 @@ defaults:
       path: ""
       type: post
     values:
-      image: https://2.gravatar.com/avatar/027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3?size=800 # Apply default site image
+      #image: https://2.gravatar.com/avatar/027001dd9bbc0985bceeec9e7c40b663808eb11150c5cc80b2a0d87453cc07c3?size=800 # Apply default site image
   - scope:
       path: ""
       type: posts    
