@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Restore database from backup in Docker"
-description: "Spent about an hour trying to restore a database to SQL Server in Docker. Decided to convert my notes to a blog post, hopefully this will help someone else out there who also didn't read the 20 other blog posts about it :)"
-date: 2021-11-04T12:45:00-07:00
-tags: Docker
+title: "Decoding SQL: Types, Operations, and Real-world Applications"
+date: 2023-11-11T10:45:00-07:00
+tags: SQL
 ---
 
 If you google "restore sql database in docker", you'll probably find 20 other blog posts covering this exact topic...But, for some reason, I still managed to look right past them when I was stuck, and it took me a good hour or so to figure how to get this to work. So I'm sharing it anyway.
