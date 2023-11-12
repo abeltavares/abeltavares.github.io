@@ -5,7 +5,7 @@
   positions:
   - title: "DevOps Data Engineer"
     startdate: 2023-11-13
-    #projects:
+    projects:
       - "Data accuracy and integrity"
       - Automated solutions using Python
       - KPI definition and modeling
