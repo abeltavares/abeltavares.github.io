@@ -1,3 +1,18 @@
+- company: "Critical TechWorks | BMW Group"
+  summary: "Critical TechWorks, an integral part of the BMW Group, pioneers cutting-edge software solutions, driving innovation in autonomous driving, electrification, and advanced connectivity for the future of automobiles."
+  logo: "/img/companylogos/ctw.sgv"
+  url: "https://www.criticaltechworks.com/"
+  positions:
+  - title: "DevOps Data Engineer"
+    startdate: 2023-11-13
+    #projects:
+      - "Data accuracy and integrity"
+      - Automated solutions using Python
+      - KPI definition and modeling
+      - Reports, tableau dashboards, and visualizations
+      - Variance analysis
+      - Organizational development
+
 - company: "Infineon Technologies"
   summary: "Infineon Technologies is a leading global semiconductor company that specializes in innovative solutions for energy efficiency, mobility, and security. Renowned for pioneering cutting-edge technologies, Infineon offers a broad portfolio of microelectronics that set the standard in the industry."
   logo: "/img/companylogos/infineon.png"
