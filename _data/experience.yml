@@ -1,6 +1,6 @@
 - company: "Critical TechWorks | BMW Group"
   summary: "Critical TechWorks, an integral part of the BMW Group, pioneers cutting-edge software solutions, driving innovation in autonomous driving, electrification, and advanced connectivity for the future of automobiles."
-  logo: "/img/companylogos/ctw.svg"
+  logo: "/img/companylogos/ctw.png"
   url: "https://www.criticaltechworks.com/"
   positions:
   - title: "DevOps Data Engineer"
