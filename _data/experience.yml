@@ -27,9 +27,9 @@
     enddate: 2023-02-31
     projects:
       - SAP master data maintenance
-      - Test case design
       - Efficiency improvement through macros
-      - SAP maintenance automation
+      - SAP maintenance automation with VBA programming
+      - Test case design
       - Internal controls and reporting
       - Cross-functional coordination
 
