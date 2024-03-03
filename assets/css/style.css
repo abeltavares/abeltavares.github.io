@@ -384,7 +384,7 @@ h3 {
 .card li a {
   margin-right: 0;
   color: #333;
-  border-bottom: 2px solid #ffab40;
+  border-bottom: 2px solid #008073 !important;
 }
 
 .card li a:hover {
